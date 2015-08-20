@@ -1,0 +1,1 @@
+cout<<setiosflags(ios::fixed)<<cout.precision(2);
