@@ -7,6 +7,7 @@
 import os
 import sys
 
+
 def findfile(start, name):
     for relpath, dirs, files in os.walk(start):
         if name in files:
